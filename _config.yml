@@ -1,11 +1,11 @@
 # Site settings
 author: Marcel Rico
-title: 
+title: A Journey in Code
 header-img: img/home-bg.png
 email: personal.mr4@gmail.com
 copyright_name: Marcel Rico
 description: > # this means to ignore newlines until "baseurl:"
-  
+  From IT Tech to Software Dev
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  MarcelRico
