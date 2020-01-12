@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Avoid These Top 3 Sneaky Ruby Array Pitfalls"
-date:       2020-01-12 15:56:46 +0000
+title:      "Avoid These 3 Sneaky Ruby Array Pitfalls"
+date:       2020-01-12 10:56:47 -0500
 permalink:  avoid_these_top_3_sneaky_ruby_array_pitfalls
 ---
 
